@@ -1,0 +1,9 @@
+{
+  "name": "inftorio",
+  "version": "0.1.0",
+  "title": "Inftorio",
+  "author": "TessaCoil",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1", "Warehousing >= 0.5.7"],
+  "description": "This mod adds infinite crafting recipes"
+}
